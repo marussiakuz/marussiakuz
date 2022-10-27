@@ -2,7 +2,7 @@
 
 In my projects, I used the following stack of technologies:
 
-* Spring Boot, Spring Framework
+* Spring Framework
 * Rest API, RestTemplate
 * Spring Data JDBC
 * Hibernate
