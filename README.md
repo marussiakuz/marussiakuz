@@ -1,6 +1,9 @@
-### <h3 align="center"> Hi there, <br> I'm Marina and I'm backend developer. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+Everyone!" alt="Typing SVG" /></a><br>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Marina+and+I'm+Java+Developer" alt="Typing SVG" /></a>
+</p>   
 
-In my projects, I used the following stack of technologies:
+In my projects, I used the following stack of technologies:                                                                                 
 
 * Spring Framework
 * Rest API, RestTemplate
