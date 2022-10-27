@@ -1,4 +1,4 @@
-### <h2 align="center"> Hi there, <br> I'm Marina and I'm backend developer. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+### <h3 align="center"> Hi there, <br> I'm Marina and I'm backend developer. <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
 In my projects, I used the following stack of technologies:
 
