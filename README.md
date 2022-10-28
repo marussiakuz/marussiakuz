@@ -17,8 +17,8 @@ In my projects, I used the following stack of technologies:
     * JSON test
 * Docker    
 * Java servlet API, JSP
-* HTML/CSS, JavaSctipt
-* PostgreSql, MySQL
+* HTML/CSS, JavaScript
+* PostgreSQL, MySQL
 
 <img width="100" height="100" src="https://user-images.githubusercontent.com/96682553/198229389-5ee1dca8-417c-48ee-a10c-de4f97a6dc52.png">
 
