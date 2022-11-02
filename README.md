@@ -5,16 +5,16 @@
 
 In my projects, I used the following stack of technologies:                                                                                 
 
+* Spring Boot
 * Spring Framework
-* Rest API, RestTemplate
-* Spring Data JDBC
-* Hibernate
+* Spring Data (JDBC, JPA, REST)
+* Hibernate ORM
+* Apache Maven
+* Apache Tomcat
 * Tests: 
-    * Spring Boot Test
+    * Spring tests
     * Mockito
     * JUnit 4/5
-    * Data Jpa Testing
-    * JSON test
 * Docker    
 * Java servlet API, JSP
 * HTML/CSS, JavaScript
