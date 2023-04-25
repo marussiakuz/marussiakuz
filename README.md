@@ -5,10 +5,10 @@
 
 In my projects, I used the following stack of technologies:                                                                                 
 
-* Spring Boot
-* Spring Framework
-* Spring Data (JDBC, JPA, REST)
-* Hibernate ORM
+* Spring Framework, Spring Boot
+* Spring Security
+* Spring Data (jdbc, jpa), Spring web/webmvc
+* Hibernate ORM, Validation
 * Apache Maven
 * Apache Tomcat
 * Tests: 
@@ -18,7 +18,8 @@ In my projects, I used the following stack of technologies:
 * Docker    
 * Java servlet API, JSP
 * HTML/CSS, JavaScript
-* PostgreSQL, MySQL
+* Thymeleaf
+* PostgreSQL, MySQL, Reddit
 
 <img width="100" height="100" src="https://user-images.githubusercontent.com/96682553/198229389-5ee1dca8-417c-48ee-a10c-de4f97a6dc52.png">
 
